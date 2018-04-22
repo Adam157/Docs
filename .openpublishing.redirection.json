@@ -349,6 +349,26 @@
         "source_path": "aspnetcore/host-and-deploy/platform-specific-configuration.md",
         "redirect_url": "/aspnet/core/fundamentals/configuration/platform-specific-configuration",
         "redirect_document_id": false
+    },
+    {
+        "source_path": "aspnetcore/testing/integration-testing.md",
+        "redirect_url": "/aspnet/core/test/integration-tests",
+        "redirect_document_id": false
+    },
+    {
+        "source_path": "aspnetcore/testing/razor-pages-testing.md",
+        "redirect_url": "/aspnet/core/test/razor-pages-tests",
+        "redirect_document_id": false
+    },
+    {
+        "source_path": "aspnetcore/testing/index.md",
+        "redirect_url": "/aspnet/core/test",
+        "redirect_document_id": false
+    },
+    {
+        "source_path": "aspnetcore/testing/troubleshoot.md",
+        "redirect_url": "/aspnet/core/test/troubleshoot",
+        "redirect_document_id": false
     }
   ] 
 }
